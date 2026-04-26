@@ -1,11 +1,11 @@
->>> Excel Data Analysis & Interactive Dashboard Project <<<
+ Excel Data Analysis & Interactive Dashboard Project 
   
---> Project Overview
+- Project Overview
 This project demonstrates advanced Microsoft Excel skills including data cleaning, transformation, pivot table analysis, and interactive dashboard development.
 
 The goal of this project was to convert raw data into meaningful business insights using structured Excel techniques.
 
---> Tools & Techniques Used
+- Tools & Techniques Used
 Microsoft Excel
 Data Cleaning & Preprocessing
 Duplicate Removal
@@ -15,7 +15,7 @@ Charts & Visualizations
 Interactive Slicers
 Dashboard Design
 
---> Project Workflow
+- Project Workflow
 
 1) Data Preparation
 Raw dataset copied into a working sheet
@@ -37,7 +37,7 @@ Combined pivot outputs into a clean dashboard
 Added slicers for interactive filtering
 Created user-friendly layout
 
---> Key Skills Demonstrated
+- Key Skills Demonstrated
 
 i)   Data Cleaning
 ii)  Analytical Thinking
@@ -46,11 +46,11 @@ iv)  Dashboard Design
 v)   Excel Pivot Mastery
 vi)  Interactive Data Exploration
 
---> Outcome
+- Outcome
 
 Transformed raw data into an interactive and dynamic dashboard that enables users to filter, analyze, and visualize key business metrics efficiently.
 
->>> Author <<<
+- Author 
 
 Aadil Nawaz
 MS Advanced Computer Science | Data & ML Enthusiast
